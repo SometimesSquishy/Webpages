@@ -3,9 +3,9 @@
 #
 # other stuff
 https://landchad.net/
+https://matrix-org.github.io/synapse/latest/setup/installation.html
 
-
-# im going insane trying to use it the way u supposed to
+# Searx: im going insane trying to use it the way u supposed to
 start webapp
 $ sudo -H -u searx -i
 (searx)$ cd /usr/local/searx/searx-src
