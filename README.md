@@ -2,12 +2,6 @@
 #
 #
 # other stuff
-https://landchad.net/
+# need to install searx and rsync
 https://matrix-org.github.io/synapse/latest/setup/installation.html
-
-# Searx: im going insane trying to use it the way u supposed to
-start webapp
-$ sudo -H -u searx -i
-(searx)$ cd /usr/local/searx/searx-src
-(searx)$ export SEARX_SETTINGS_PATH="/etc/searx/settings.yml"
-(searx)$ python searx/webapp.py
+# get matrix actually working and federated
